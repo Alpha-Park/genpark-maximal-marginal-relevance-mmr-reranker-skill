@@ -1,0 +1,16 @@
+{
+  "name": "genpark-maximal-marginal-relevance-mmr-reranker-skill",
+  "version": "1.0.0",
+  "description": "Maximal Marginal Relevance (MMR) diversity-aware vector reranker balancing query relevance vs intra-result redundancy.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "mmr",
+    "reranker",
+    "diversity",
+    "rag",
+    "embeddings",
+    "genpark",
+    "mcp"
+  ]
+}
